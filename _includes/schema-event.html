@@ -85,7 +85,7 @@
         {
             "@type" : "Person",
             "name" : "{{ speaker.name }} {{ speaker.surname }}",
-            "image" : "{{ site.url | append: site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }}",
+            "image" : "{{ speaker.thumbnailUrl | prepend: site.thumbnailsFolder | prepend: site.baseurl | prepend: site.url }}",
             "jobTitle" : "{{ speaker.title }}",
             "worksFor" : {
                 "@type" : "Organization",
