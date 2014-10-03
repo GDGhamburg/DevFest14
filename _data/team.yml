@@ -1,60 +1,74 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Marco"
+  surname: "Pöhler"
+  title: "Freelancer & Geschäftsführer"
+  thumbnailUrl: marco.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://google.com/+MarcoPöhler"}
+    #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "github", link: "https://github.com/mpoehler"}
+    - {name: "site", link: "http://www.kontaktlinsen-preisvergleich.de/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Matthias"
+  surname: "Friedrich"
+  title: "Android Developer/Enthusiast"
+  thumbnailUrl: matthias.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://google.com/+MatthiasFriedrich"}
+    - {name: "twitter", link: "https://twitter.com/peacei"}
+    - {name: "github", link: "https://github.com/mtthsfrdrch"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Ciprian"
+  surname: "Ursu"
+  title: "Software Developer"
+  thumbnailUrl: ciprian.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: "https://google.com/+CiprianUrsu"}
+    - {name: "twitter", link: "https://twitter.com/ursucip"}
+- 
+  id: 3
+  name: "Ingo"
+  surname: "Oeser"
+  title: "Developer"
+  thumbnailUrl: ingo.png
+  subTeam: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+IngoOeser"}
+    - {name: "github", link: "https://github.com/nightlyone"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Martin"
+  surname: "Thielecke"
+  title: "Developer"
+  thumbnailUrl: martin.jpg
   subTeam: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://google.com/+MartinThielecke"}
+    - {name: "site", link: "http://www.mthie.com/"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  id: 5
+  name: "Björn"
+  surname: "Jensen"
+  thumbnailUrl: bjoern.jpg
   subTeam: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://google.com/+BjörnJensen_hh"}
+    - {name: "twitter", link: "http://twitter.com/mirouhh"}
