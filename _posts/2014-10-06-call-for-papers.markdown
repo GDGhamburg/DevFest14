@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2014-10-06 09:00:00
+date:   2014-10-10 23:00:00
 isStaticPost: false
 ---
 GDG DevFest Hamburg 2014 will be held 8th of November in the Xing office Hamburg. If you want to be part of this great event as a speaker you knocked at the good door.
