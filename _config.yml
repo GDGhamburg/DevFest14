@@ -56,7 +56,7 @@ typeoutTextValues: '"", "Hamburg", "Season", "Android", "Polymer", "Golang"'
 typeoutFallback: "Hamburg"
 heroButtons:
  - {link: "http://goo.gl/tIMQE4", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Register"}
+ - {link: "http://goo.gl/tZdX7D", text: "Register"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
