@@ -1,60 +1,66 @@
 - 
-  id: 3
-  name: "Name"
-  surname: "Surname"
-  company: "Company"
-  title: "Developer"
-  bio: "Developer at company author of project."
-  thumbnailUrl: android.jpg
+  id: 1
+  name: "Lee"
+  surname: "Hambley"
+  company: "Harrow.io"
+  title: "Founder, Consultant, Software Engineer"
+  bio: "I’m the founder of a successful consultancy company personally offering extensive experience with Ruby, PHP, Lua, and SQL (MySQL and PostgreSQL). Sometimes I work with JavaScript, C or Objective-C. I contribute heavily to open source. I’ve maintained Capistrano for the last few years; it’s the de-facto standard for deploying Ruby or Rails applications. I’m working hard with a couple of awesome people at making it work well for other projects too, you can watch us work."
+  thumbnailUrl: lee.png
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/+LeeHambley"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/leehambley"}
+- 
+  id: 2
+  name: "David"
+  surname: "Montiel"
+  company: "eBay Kleinanzeigen"
+  title: "Android Developer"
+  bio: "Developer at company author of project."
+  thumbnailUrl: david.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DavidMontiel"}
+    - {name: "twitter", link: "https://twitter.com/davidmonti"}
+- 
+  id: 3
+  name: "Yasin"
+  surname: "Yildirim"
+  company: "eBay Kleinanzeigen"
+  title: "Android Developer"
+  bio: "Developer at company author of project."
+  thumbnailUrl: yasin.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+YasinYildirimm"}
+    - {name: "twitter", link: "https://twitter.com/vudin"}
+- 
+  id: 4
+  name: "Kjell"
+  surname: "Otto"
+  company: "Fast Lane Institute for Knowledge Transfer GmbH"
+  title: "Software Developer and System Architect"
+  bio: "Developer at company author of project."
+  thumbnailUrl: kjell.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+KjellOtto"}
+    - {name: "twitter", link: "https://twitter.com/kjellski"}
+    - {name: "github", link: "https://github.com/kjellski"}   
 - 
   id: 5
-  name: "Name"
-  surname: "Surname"
-  company: "Company"
-  title: "Developer"
-  bio: "Developer at company author of project."
-  thumbnailUrl: android.jpg
-  rockstar: true
+  name: "Eric"
+  surname: "Hoffmann"
+  company: ""
+  title: "Senior Software Developer ( mobile )"
+  bio: 'Senior mobile developer with a love for image processing and big data analysis.'
+  thumbnailUrl: eric.jpg
+  rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/"}
-- 
-  id: 6
-  name: "Name"
-  surname: "Surname"
-  company: "Company"
-  title: "Developer"
-  bio: "Developer at company author of project."
-  thumbnailUrl: android.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/"}
-- 
-  id: 7
-  name: "Name"
-  surname: "Surname"
-  company: "Company"
-  title: "Developer"
-  bio: "Developer at company author of project."
-  thumbnailUrl: android.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/"}    
-#- 
-#  id: 4
-#  name: "Dmytro"
-#  surname: "Danylyk"
-#  company: "Lemberg Solutions Limited"
-#  title: "Android Developer"
-#  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-#  thumbnailUrl: DmytroDanylyk.jpg
-#  rockstar: true
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"}
 #- 
 #  id: 5
 #  name: "Mateusz"

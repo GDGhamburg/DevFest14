@@ -16,14 +16,39 @@
   speakers: [0, 0]
   language: en
   complexity: "Intermediate"
-#-
-#  id: 002
-#  title: "Building Cloud-powered wearable Apps"
-#  description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
-#  subtype: presentation
-#  speakers: [4, 5]
-#  language: en
-#  complexity: "Beginner"
+-
+  id: 002
+  title: "Transactional HTTP Tests With Go’s Standard Library"
+  description: "Kitchen-sink frameworks such as Rails include massive amounts of code designed to help with easy out of the box testing through the whole stack. In this talk I’ll discuss the tooling I came up with to emulate the good parts of the Rails database migrations, and transactional tests and fixtures fixtures using some of Go’s excellent standard library."
+  subtype: presentation
+  speakers: [1]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 003
+  title: "Material Design"
+  description: ""
+  subtype: presentation
+  speakers: [2, 3]
+  language: en
+  complexity: "Beginner"
+-
+  id: 004
+  title: "Angular Generator"
+  description: ""
+  subtype: presentation
+  speakers: [4]
+  language: en
+  complexity: "Beginner"  
+-
+  id: 005
+  title: "3D data from just two Pictures"
+  description: "The technology might be a little bit old but interesting for those that dont know it to get a glimpse what we can do to geht 3D data from two photos of a scene just using Math. The way it is be done is using MSERs maximally stable regions. What they are and how this works i will show and also answer questions."
+  subtype: presentation
+  speakers: [5]
+  language: en
+  complexity: "Intermediate" 
+
 #-
 #  id: 003
 #  title: "The world is your playground - go global with Google"

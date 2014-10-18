@@ -2,24 +2,29 @@
   date: "2014-11-08"
   dateReadable: "November 08"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
+    - {title: "not ordered yet", color: "#90be4e"}
+    #- {title: "Web & Cloud", color: "#03a9f4"}
     #- {title: "Community", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [001, 001]
+    	startTime: "",
+    	endTime: "",
+    	sessionIds: [002]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [001, 001]
+        startTime: "",
+        endTime: "",
+        sessionIds: [003]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [001]
+    	startTime: "",
+    	endTime: "",
+    	sessionIds: [004]
+    }
+    - {
+        startTime: "",
+        endTime: "",
+        sessionIds: [005]
     }
 #- 
 #  date: "2014-10-25"
