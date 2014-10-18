@@ -1,4 +1,43 @@
 - 
+  id: 0
+  name: "Name"
+  surname: "Surname"
+  company: "company"
+  title: "developer"
+  bio: "developer at company, author of product"
+  thumbnailUrl: android.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/"}
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "github", link: "https://github.com/"}
+- 
+  id: 6
+  name: "Name"
+  surname: "Surname"
+  company: "company"
+  title: "developer"
+  bio: "developer at company, author of product"
+  thumbnailUrl: android.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/"}
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "github", link: "https://github.com/"}
+- 
+  id: 7
+  name: "Name"
+  surname: "Surname"
+  company: "company"
+  title: "developer"
+  bio: "developer at company, author of product"
+  thumbnailUrl: android.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/"}
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "github", link: "https://github.com/"}
+- 
   id: 1
   name: "Lee"
   surname: "Hambley"
@@ -9,7 +48,6 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+LeeHambley"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/leehambley"}
 - 
   id: 2
@@ -47,7 +85,7 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+KjellOtto"}
     - {name: "twitter", link: "https://twitter.com/kjellski"}
-    - {name: "github", link: "https://github.com/kjellski"}   
+    - {name: "github", link: "https://github.com/kjellski"}
 - 
   id: 5
   name: "Eric"
@@ -58,9 +96,7 @@
   thumbnailUrl: eric.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/"}
 #- 
 #  id: 5
 #  name: "Mateusz"

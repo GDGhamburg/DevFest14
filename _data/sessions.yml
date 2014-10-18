@@ -13,7 +13,7 @@
   title: "Session Title"
   description: "Session description"
   subtype: presentation
-  speakers: [0, 0]
+  speakers: [0]
   language: en
   complexity: "Intermediate"
 -
