@@ -34,12 +34,12 @@
   complexity: "Beginner"
 -
   id: 004
-  title: "Angular Generator"
+  title: "generator-angular-fullstack"
   description: ""
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Beginner"  
+  complexity: "Beginner"
 -
   id: 005
   title: "3D data from just two Pictures"
@@ -47,7 +47,7 @@
   subtype: presentation
   speakers: [5]
   language: en
-  complexity: "Intermediate" 
+  complexity: "Intermediate"
 
 #-
 #  id: 003
