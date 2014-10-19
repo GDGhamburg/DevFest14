@@ -10,6 +10,7 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+LeeHambley"}
     - {name: "github", link: "https://github.com/leehambley"}
+    - {name: "site", link: "http://lee.hambley.name/"}
 - 
   id: 2
   name: "David"
@@ -58,6 +59,20 @@
   rockstar: false
   social: 
 - 
+  id: 6
+  name: "Tobias"
+  surname: "Schwab"
+  company: "Dynport"
+  title: "Co-Founder"
+  bio: "Tobias Schwab is co-founder of Dynport, an IT consultancy which helps internet startups in all business stages. Dynport is also the company behind PhraseApp, a translation management solution for web and mobile applications. Tobias started developing with Ruby on Rails in 2006 and worked on some of the largest German Ruby on Rails applications (e.g. Qype, Simfy and Wimdu). In the last years he implemented scalable and fully automated cloud deployments for various fast growing internet companies. His current center of interested is creating infrastructure agnostic management and orchestration tools with the go programming language."
+  thumbnailUrl: tobias.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/tobstarr"}
+    - {name: "github", link: "https://github.com/dynport"}
+    - {name: "site", link: "http://dynport.de"}
+    - {name: "site", link: "http://phraseapp.com"}
+- 
   id: 0
   name: "Name"
   surname: "Surname"
@@ -71,20 +86,7 @@
     - {name: "twitter", link: "https://twitter.com/"}
     - {name: "github", link: "https://github.com/"}
 - 
-  id: 6
-  name: "Name"
-  surname: "Surname"
-  company: "company"
-  title: "developer"
-  bio: "developer at company, author of product"
-  thumbnailUrl: android.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/"}
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "github", link: "https://github.com/"}
-- 
-  id: 7
+  id: 8
   name: "Name"
   surname: "Surname"
   company: "company"

@@ -48,6 +48,14 @@
   speakers: [5]
   language: en
   complexity: "Intermediate" 
+-
+  id: 006
+  title: "Automation in Go"
+  description: "Go is THE emerging language of the devops world. In this session I want to show how we use Go for infrastructure automation and deployments of PhraseApp. I will explain what made us migrate our tools from ruby to Go and share best practices and learnings we had over the last year."
+  subtype: presentation
+  speakers: [6]
+  language: en
+  complexity: "Intermediate"
 
 #-
 #  id: 003
