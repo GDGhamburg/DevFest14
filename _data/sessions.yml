@@ -34,12 +34,12 @@
   complexity: "Intermediate"
 -
   id: 004
-  title: "Angular Generator"
-  description: ""
+  title: "generator-angular-fullstack"
+  description: "This presentation will be about a yeoman generator that helps you kickstart the fullstack nodeJS development. I'll try to explain what yeoman is, how it works together with the other tools involved and show what features this particular generator has."
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Beginner"  
+  complexity: "Beginner"
 -
   id: 005
   title: "3D data from just two Pictures"
