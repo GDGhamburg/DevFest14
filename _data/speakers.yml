@@ -17,19 +17,20 @@
   surname: "Montiel"
   company: "eBay Kleinanzeigen"
   title: "Android Developer"
-  bio: "Developer at company author of project."
+  bio: "Im an Android developer with experience in both the Xing and the eBay Kleinanzegen apps. Before I have worked in Satyam (India), Softtek (Mexico) and Google and Linkedin (California). I enjoy playing guitar and traveling."
   thumbnailUrl: david.jpg
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DavidMontiel"}
     - {name: "twitter", link: "https://twitter.com/davidmonti"}
+    - {name: "site", link: "http://kleinanzeigen.ebay.de"}
 - 
   id: 3
   name: "Yasin"
   surname: "Yildirim"
   company: "eBay Kleinanzeigen"
   title: "Android Developer"
-  bio: "Developer at company author of project."
+  bio: "My name is Yasin, I've been developing apps for Android since 2009. Currently I work for eBay Kleinanzeigen (one of the most used apps in Germany). I love everything about Android!"
   thumbnailUrl: yasin.jpg
   rockstar: false
   social: 

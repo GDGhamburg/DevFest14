@@ -27,11 +27,11 @@
 -
   id: 003
   title: "Material Design"
-  description: ""
+  description: "In the session we will show a demo of the new features, code samples of it,  as well as introduce the backwards compatibility capabilities. We will also showcase a migration guide with the first steps to  adapt your current app into Lollipop."
   subtype: presentation
   speakers: [2, 3]
   language: en
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 004
   title: "Angular Generator"
