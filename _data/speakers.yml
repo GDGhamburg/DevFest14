@@ -1,4 +1,4 @@
-- 
+-
   id: 1
   name: "Lee"
   surname: "Hambley"
@@ -7,11 +7,11 @@
   bio: "I’m the founder of a successful consultancy company personally offering extensive experience with Ruby, PHP, Lua, and SQL (MySQL and PostgreSQL). Sometimes I work with JavaScript, C or Objective-C. I contribute heavily to open source. I’ve maintained Capistrano for the last few years; it’s the de-facto standard for deploying Ruby or Rails applications. I’m working hard with a couple of awesome people at making it work well for other projects too, you can watch us work."
   thumbnailUrl: lee.png
   rockstar: true
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+LeeHambley"}
     - {name: "github", link: "https://github.com/leehambley"}
     - {name: "site", link: "http://lee.hambley.name/"}
-- 
+-
   id: 2
   name: "David"
   surname: "Montiel"
@@ -20,11 +20,12 @@
   bio: "Im an Android developer with experience in both the Xing and the eBay Kleinanzegen apps. Before I have worked in Satyam (India), Softtek (Mexico) and Google and Linkedin (California). I enjoy playing guitar and traveling."
   thumbnailUrl: david.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+DavidMontiel"}
     - {name: "twitter", link: "https://twitter.com/davidmonti"}
+
     - {name: "site", link: "http://kleinanzeigen.ebay.de"}
-- 
+-
   id: 3
   name: "Yasin"
   surname: "Yildirim"
@@ -33,23 +34,23 @@
   bio: "My name is Yasin, I've been developing apps for Android since 2009. Currently I work for eBay Kleinanzeigen (one of the most used apps in Germany). I love everything about Android!"
   thumbnailUrl: yasin.jpg
   rockstar: false
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+YasinYildirimm"}
     - {name: "twitter", link: "https://twitter.com/vudin"}
-- 
+-
   id: 4
   name: "Kjell"
   surname: "Otto"
   company: "Fast Lane Institute for Knowledge Transfer GmbH"
   title: "Software Developer and System Architect"
-  bio: "Developer at company author of project."
-  thumbnailUrl: kjell.jpg
+  bio: "I'm a developer who just can't loose interest in new technologies and ways of doing the things we do in software. I love hackathons and the momentum they create. The generator-angular-fullstack is just a nice fit in that regard."
+  thumbnailUrl: kjell.png
   rockstar: false
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+KjellOtto"}
     - {name: "twitter", link: "https://twitter.com/kjellski"}
     - {name: "github", link: "https://github.com/kjellski"}
-- 
+-
   id: 5
   name: "Eric"
   surname: "Hoffmann"
@@ -73,7 +74,7 @@
     - {name: "github", link: "https://github.com/dynport"}
     - {name: "site", link: "http://dynport.de"}
     - {name: "site", link: "http://phraseapp.com"}
-- 
+-
   id: 0
   name: "Name"
   surname: "Surname"
@@ -82,7 +83,20 @@
   bio: "developer at company, author of product"
   thumbnailUrl: android.jpg
   rockstar: true
-  social: 
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/"}
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "github", link: "https://github.com/"}
+-
+  id: 7
+  name: "Name"
+  surname: "Surname"
+  company: "company"
+  title: "developer"
+  bio: "developer at company, author of product"
+  thumbnailUrl: android.jpg
+  rockstar: true
+  social:
     - {name: "google-plus", link: "https://plus.google.com/"}
     - {name: "twitter", link: "https://twitter.com/"}
     - {name: "github", link: "https://github.com/"}
@@ -95,11 +109,11 @@
   bio: "developer at company, author of product"
   thumbnailUrl: android.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/"}
     - {name: "twitter", link: "https://twitter.com/"}
     - {name: "github", link: "https://github.com/"}
-#- 
+#-
 #  id: 5
 #  name: "Mateusz"
 #  surname: "Herych"
@@ -108,13 +122,13 @@
 #  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
 #  thumbnailUrl: MateuszHerych.jpg
 #  rockstar: true
-#  ribbon: 
+#  ribbon:
 #    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
 #    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#  social: 
+#  social:
 #    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
 #    - {name: "twitter", link: "https://twitter.com/mherych"}
-#- 
+#-
 #  id: 6
 #  name: "Roman"
 #  surname: "Mazur"
@@ -125,10 +139,10 @@
 #  rockstar: true
 #  ribbon:
 #    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#  social: 
+#  social:
 #    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
 #    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-#- 
+#-
 #  id: 7
 #  name: "Valentyn"
 #  surname: "Shybanov"
@@ -139,6 +153,6 @@
 #  rockstar: true
 #  ribbon:
 #    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#  social: 
+#  social:
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
