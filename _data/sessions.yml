@@ -56,7 +56,14 @@
   speakers: [6]
   language: en
   complexity: "Intermediate"
-
+-
+  id: 007
+  title: "Make animations, Droid"
+  description: "This talk will be about why Android developers should make animations in their apps and briefly present the current (Android version < 5.0) tools to make them."
+  subtype: presentation
+  speakers: [7]
+  language: en
+  complexity: "Intermediate"
 #-
 #  id: 003
 #  title: "The world is your playground - go global with Google"

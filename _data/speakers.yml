@@ -19,7 +19,7 @@
   title: "Android Developer"
   bio: "Im an Android developer with experience in both the Xing and the eBay Kleinanzegen apps. Before I have worked in Satyam (India), Softtek (Mexico) and Google and Linkedin (California). I enjoy playing guitar and traveling."
   thumbnailUrl: david.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DavidMontiel"}
     - {name: "twitter", link: "https://twitter.com/davidmonti"}
@@ -33,7 +33,7 @@
   title: "Android Developer"
   bio: "My name is Yasin, I've been developing apps for Android since 2009. Currently I work for eBay Kleinanzeigen (one of the most used apps in Germany). I love everything about Android!"
   thumbnailUrl: yasin.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+YasinYildirimm"}
     - {name: "twitter", link: "https://twitter.com/vudin"}
@@ -75,27 +75,27 @@
     - {name: "site", link: "http://dynport.de"}
     - {name: "site", link: "http://phraseapp.com"}
 -
-  id: 0
-  name: "Name"
-  surname: "Surname"
-  company: "company"
-  title: "developer"
-  bio: "developer at company, author of product"
-  thumbnailUrl: android.jpg
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/"}
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "github", link: "https://github.com/"}
--
   id: 7
+  name: "Alberto"
+  surname: "Ballano"
+  company: "Xing AG"
+  title: "Android developer"
+  bio: "I've been working for almost 3 years as an Android dev and now I'm working in an awesome company as XING. I'm a perfectionist in my work and a fanatic of the UI & UX. For many years I was envious of iOS' animations, now I learned a bit about them and I try to apply them in every project I work on. I'm also a bit nerd and a passionate about games and TV Series."
+  thumbnailUrl: alberto.jpg
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+AlbertoBallano"}
+    - {name: "twitter", link: "https://twitter.com/aballano"}
+    - {name: "github", link: "https://github.com/Shyish"}
+-
+  id: 9
   name: "Name"
   surname: "Surname"
   company: "company"
   title: "developer"
   bio: "developer at company, author of product"
   thumbnailUrl: android.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "google-plus", link: "https://plus.google.com/"}
     - {name: "twitter", link: "https://twitter.com/"}
@@ -108,7 +108,7 @@
   title: "developer"
   bio: "developer at company, author of product"
   thumbnailUrl: android.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "google-plus", link: "https://plus.google.com/"}
     - {name: "twitter", link: "https://twitter.com/"}
