@@ -33,7 +33,7 @@
   title: "Android Developer"
   bio: "My name is Yasin, I've been developing apps for Android since 2009. Currently I work for eBay Kleinanzeigen (one of the most used apps in Germany). I love everything about Android!"
   thumbnailUrl: yasin.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "google-plus", link: "https://plus.google.com/+YasinYildirimm"}
     - {name: "twitter", link: "https://twitter.com/vudin"}
@@ -89,17 +89,17 @@
     - {name: "github", link: "https://github.com/Shyish"}
 -
   id: 9
-  name: "Name"
-  surname: "Surname"
-  company: "company"
-  title: "developer"
-  bio: "developer at company, author of product"
-  thumbnailUrl: android.jpg
-  rockstar: false
+  name: "Jeremy"
+  surname: "Abbett"
+  company: "Google"
+  title: "Creative Director / Interaction Designer / Educator"
+  bio: "Jeremy Abbett is a believer in those that can think and make. His belief comes in the form of his own personal experience starting several ventures that found their genesis at the intersection of design and technology. He continues to explore the intersection of design and technology in his latest position at Google."
+  thumbnailUrl: jeremy.jpg
+  rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/"}
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "github", link: "https://github.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/+JeremyAbbett"}
+    - {name: "twitter", link: "http://www.twitter.com/jeremytai"}
+    - {name: "site", link: "http://jeremy.abbett.net/"}
 - 
   id: 8
   name: "Name"

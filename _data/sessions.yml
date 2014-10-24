@@ -10,12 +10,12 @@
 #  service: true
 -
   id: 001
-  title: "Session Title"
-  description: "Session description"
-  subtype: presentation
-  speakers: [0]
+  title: "Keynote"
+  description: "TBA"
+  subtype: keynote
+  speakers: [9]
   language: en
-  complexity: "Intermediate"
+  complexity: ""
 -
   id: 002
   title: "Transactional HTTP Tests With Go’s Standard Library"
