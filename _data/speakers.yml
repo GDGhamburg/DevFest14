@@ -1,4 +1,17 @@
 -
+  id: 9
+  name: "Jeremy"
+  surname: "Abbett"
+  company: "Google"
+  title: "Creative Director / Interaction Designer / Educator"
+  bio: "Jeremy Abbett is a believer in those that can think and make. His belief comes in the form of his own personal experience starting several ventures that found their genesis at the intersection of design and technology. He continues to explore the intersection of design and technology in his latest position at Google."
+  thumbnailUrl: jeremy.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+JeremyAbbett"}
+    - {name: "twitter", link: "http://www.twitter.com/jeremytai"}
+    - {name: "site", link: "http://jeremy.abbett.net/"}
+-
   id: 1
   name: "Lee"
   surname: "Hambley"
@@ -87,19 +100,6 @@
     - {name: "google-plus", link: "https://plus.google.com/+AlbertoBallano"}
     - {name: "twitter", link: "https://twitter.com/aballano"}
     - {name: "github", link: "https://github.com/Shyish"}
--
-  id: 9
-  name: "Jeremy"
-  surname: "Abbett"
-  company: "Google"
-  title: "Creative Director / Interaction Designer / Educator"
-  bio: "Jeremy Abbett is a believer in those that can think and make. His belief comes in the form of his own personal experience starting several ventures that found their genesis at the intersection of design and technology. He continues to explore the intersection of design and technology in his latest position at Google."
-  thumbnailUrl: jeremy.jpg
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+JeremyAbbett"}
-    - {name: "twitter", link: "http://www.twitter.com/jeremytai"}
-    - {name: "site", link: "http://jeremy.abbett.net/"}
 - 
   id: 8
   name: "Name"
