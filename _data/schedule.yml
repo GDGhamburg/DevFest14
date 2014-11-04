@@ -1,55 +1,79 @@
 - 
   date: "2014-11-08"
   dateReadable: "November 08"
-  tracks: 
-    - {title: "not ordered yet", color: "#90be4e"}
-    #- {title: "Web & Cloud", color: "#03a9f4"}
-    #- {title: "Community", color: "#e91e63"}
+  tracks:
+    - {title: "Tech talks", color: "#90be4e"}
+    - {title: "Codelabs", color: "#03a9f4"}
   timeslots:
     - {
-        startTime: "",
+        startTime: "09:00",
         endTime: "",
-        sessionIds: [001]
+        sessionIds: [010]
     }
     - {
-    	startTime: "",
-    	endTime: "",
-    	sessionIds: [002]
+    	startTime: "09:30",
+    	endTime: "09:45",
+    	sessionIds: [011]
     }
     - {
-        startTime: "",
+        startTime: "10:00",
+        endTime: "10:45",
+        sessionIds: [001, 000]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:45",
+    	sessionIds: [008, 000]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "12:45",
+        sessionIds: [005, 000]
+    }
+    - {
+        startTime: "12:45",
+        endTime: "13:45",
+        sessionIds: [015, 000]
+    }
+    - {
+        startTime: "13:45",
+        endTime: "14:30",
+        sessionIds: [017, 000]
+    }
+    - {
+        startTime: "14:45",
+        endTime: "15:30",
+        sessionIds: [004, 000]
+    }
+    - {
+        startTime: "15:45",
+        endTime: "16:30",
+        sessionIds: [006, 000]
+    }
+    - {
+        startTime: "16:45",
+        endTime: "17:30",
+        sessionIds: [009, 000]
+    }
+    - {
+        startTime: "17:45",
+        endTime: "18:30",
+        sessionIds: [007, 000]
+    }
+    - {
+        startTime: "18:45",
+        endTime: "19:30",
+        sessionIds: [002, 000]
+    }
+    - {
+        startTime: "19:45",
+        endTime: "20:30",
+        sessionIds: [003, 000]
+    }
+    - {
+        startTime: "20:30",
         endTime: "",
-        sessionIds: [003]
-    }
-    - {
-    	startTime: "",
-    	endTime: "",
-    	sessionIds: [004]
-    }
-    - {
-        startTime: "",
-        endTime: "",
-        sessionIds: [005]
-    }
-    - {
-        startTime: "",
-        endTime: "",
-        sessionIds: [006]
-    }
-    - {
-        startTime: "",
-        endTime: "",
-        sessionIds: [007]
-    }
-    - {
-        startTime: "",
-        endTime: "",
-        sessionIds: [008]
-    }
-    - {
-        startTime: "",
-        endTime: "",
-        sessionIds: [009]
+        sessionIds: [014, 000]
     }
 #- 
 #  date: "2014-10-25"

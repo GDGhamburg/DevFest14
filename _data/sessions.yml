@@ -8,6 +8,69 @@
 #  title: "Lunch Break"
 #  place: "Dining room"
 #  service: true
+
+-
+  id: 016
+  title: ""
+  description: ""
+  subtype: 
+  speakers: []
+-
+  id: 010
+  title: "Doors open"
+  description: ""
+  subtype: 
+  speakers: []
+  language: 
+  complexity: ""
+-
+  id: 011
+  title: "Welcome"
+  description: ""
+  subtype: 
+  speakers: []
+  language: 
+  complexity: ""
+-
+  id: 012
+  title: "GO Codelab"
+  description: ""
+  subtype: 
+  speakers: [11]
+  language: 
+  complexity: ""
+-
+  id: 012
+  title: "Polymer Codelab"
+  description: ""
+  subtype: 
+  speakers: [10]
+  language: 
+  complexity: ""
+-
+  id: 013
+  title: "Android Wear Codelab"
+  description: ""
+  subtype: 
+  speakers: [12]
+  language: 
+  complexity: ""
+-
+  id: 014
+  title: "Drinks 'n' Networking"
+  description: ""
+  subtype: 
+  speakers: []
+  language: 
+  complexity: ""
+-
+  id: 015
+  title: "Lunch Break"
+  description: ""
+  subtype: 
+  speakers: []
+  language: 
+  complexity: ""
 -
   id: 001
   title: "Keynote"
@@ -26,7 +89,7 @@
   complexity: "Intermediate"
 -
   id: 003
-  title: "Material Design"
+  title: "Getting started with Material Design on Android"
   description: "In the session we will show a demo of the new features, code samples of it,  as well as introduce the backwards compatibility capabilities. We will also showcase a migration guide with the first steps to  adapt your current app into Lollipop."
   subtype: presentation
   speakers: [2, 3]
@@ -75,10 +138,17 @@
 -
   id: 009
   title: "Polymer"
-  description: "Give everyone a high level overview about the Polymer Project.
-What problems are we solving? Why Web Components?"
+  description: "Give everyone a high level overview about the Polymer Project. What problems are we solving? Why Web Components?"
   subtype: presentation
   speakers: [10]
+  language: en
+  complexity: "Beginner"
+-
+  id: 017
+  title: "Android as it gets worn"
+  description: "One of Androids new shapes is the one of a watch on your wrist. Besides the basic adjustments of notifications for Wearable devices, it is also possible to run full fledged applications on them, that don't suck. These applications are highly depended on new APIs for inter device communication and some new ui widgets. This talk wants to give a introduction to Android Wear, its special APIs, features and latest developments."
+  subtype: presentation
+  speakers: [12]
   language: en
   complexity: "Beginner"
 #-

@@ -131,6 +131,31 @@
     - {name: "twitter", link: "https://twitter.com/shonzilla"}
     - {name: "github", link: "https://github.com/shonzilla"}
     - {name: "site", link: "http://shonzilla.com"}
+- 
+  id: 11
+  name: "Ingo"
+  surname: "Oeser"
+  company: "Jimdo"
+  title: "Software Developer"
+  bio: ""
+  thumbnailUrl: ingo.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://google.com/+IngoOeser"}
+    - {name: "github", link: "https://github.com/nightlyone"}
+- 
+  id: 12
+  name: "Matthias"
+  surname: "Friedrich"
+  company: "Jimdo / GDG Hamburg Android"
+  title: "Android Developer/Enthusiast"
+  bio: "As Android user from the beginning, I started to develop for the platform with version 1.6 in 2009. Since then i'm following its progress very enthusiastically and worked on several applications, big and small, successful in the Play Store and as specialized customer solutions . During these years, i also co-founded the GDG Bremen and GDG Android Hamburg, gave several Android related talks and organized developer events around Google technologies in general."
+  thumbnailUrl: matthias.jpg
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MatthiasFriedrich"}
+    - {name: "twitter", link: "https://twitter.com/peacei"}
+    - {name: "github", link: "https://github.com/mtthsfrdrch"}
 #-
 #  id: 5
 #  name: "Mateusz"
