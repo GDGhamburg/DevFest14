@@ -64,6 +64,23 @@
   speakers: [7]
   language: en
   complexity: "Intermediate"
+-
+  id: 008
+  title: "Building Android apps with Scala"
+  description: "The Android platform market penetration is constantly on the rise and obviously a lot of time is spent coding in Java which is not the most efficient language to develop, test and build. This talk presents an approach to develop Android application using Scala programming language and SBT with Android plugin as a build tool. This toolset supports iterative development and efficient build cycles. As an addition to this talk, I'll explain how to use native libraries and integrate them into any Android application. GStreamer multimedia framework will be used as an example."
+  subtype: presentation
+  speakers: [8]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 009
+  title: "Polymer"
+  description: "Give everyone a high level overview about the Polymer Project.
+What problems are we solving? Why Web Components?"
+  subtype: presentation
+  speakers: [10]
+  language: en
+  complexity: "Beginner"
 #-
 #  id: 003
 #  title: "The world is your playground - go global with Google"

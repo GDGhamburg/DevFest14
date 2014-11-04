@@ -36,8 +36,9 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DavidMontiel"}
     - {name: "twitter", link: "https://twitter.com/davidmonti"}
-
+    - {name: "site", link: "https://www.xing.com/profile/DavidAlejandro_MontielGomez"}
     - {name: "site", link: "http://kleinanzeigen.ebay.de"}
+    - {name: "site", link: "https://www.linkedin.com/profile/view?id=22192957"}
 -
   id: 3
   name: "Yasin"
@@ -50,6 +51,7 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+YasinYildirimm"}
     - {name: "twitter", link: "https://twitter.com/vudin"}
+    - {name: "site", link: "http://de.linkedin.com/in/yasinyildirim/"}
 -
   id: 4
   name: "Kjell"
@@ -73,6 +75,7 @@
   thumbnailUrl: eric.jpg
   rockstar: false
   social: 
+    - {name: "site", link: "https://www.xing.com/profile/Eric_Hoffmann6"}
 - 
   id: 6
   name: "Tobias"
@@ -100,19 +103,34 @@
     - {name: "google-plus", link: "https://plus.google.com/+AlbertoBallano"}
     - {name: "twitter", link: "https://twitter.com/aballano"}
     - {name: "github", link: "https://github.com/Shyish"}
+    - {name: "site", link: "https://www.xing.com/profile/Alberto_Ballano"}
 - 
-  id: 8
-  name: "Name"
-  surname: "Surname"
-  company: "company"
-  title: "developer"
-  bio: "developer at company, author of product"
-  thumbnailUrl: android.jpg
+  id: 10
+  name: "Marco"
+  surname: "Pöhler"
+  company: "GDG Hamburg"
+  title: ""
+  bio: "Software-Developer with strong online marketing focus. Created some successful price comparison websites which enables him to spend most of his time exploring new web technologies or repairing his old car (A Dodge Charger from 1972)."
+  thumbnailUrl: marco.jpg
   rockstar: false
   social:
-    - {name: "google-plus", link: "https://plus.google.com/"}
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "github", link: "https://github.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/+MarcoPöhler"}
+    - {name: "site", link: "http://www.kontaktlinsen-preisvergleich.de"}
+    - {name: "site", link: "https://www.xing.com/profile/Marco_Poehler"}
+- 
+  id: 8
+  name: "Nenad V."
+  surname: "Nikolić"
+  company: "Shonzilla"
+  title: "Software Engineer and Consultant"
+  bio: "Nenad is an independent software engineer with 15 years of professional experience. His current fields of interest are building web, API and search-related products using Java platform with Scala and other JVM programming languages. He's always open to an occasional project using other developing platforms. Nenad holds an MSc degree in Computer Engineering and Science, he's fluent in 5 (natural) languages and around as many programming languages. Enjoys hacking and yoga, often while listening to eclectic music."
+  thumbnailUrl: nenad.jpg
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+NenadNikolic0"}
+    - {name: "twitter", link: "https://twitter.com/shonzilla"}
+    - {name: "github", link: "https://github.com/shonzilla"}
+    - {name: "site", link: "http://shonzilla.com"}
 #-
 #  id: 5
 #  name: "Mateusz"
