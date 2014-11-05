@@ -8,13 +8,6 @@
 #  title: "Lunch Break"
 #  place: "Dining room"
 #  service: true
-
--
-  id: 016
-  title: ""
-  description: ""
-  subtype: 
-  speakers: []
 -
   id: 010
   title: "Doors open"
@@ -40,7 +33,7 @@
   language: 
   complexity: ""
 -
-  id: 012
+  id: 015
   title: "Polymer Codelab"
   description: ""
   subtype: 
@@ -64,7 +57,7 @@
   language: 
   complexity: ""
 -
-  id: 015
+  id: 016
   title: "Lunch Break"
   description: ""
   subtype: 
