@@ -8,11 +8,11 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "GDG DevFest Hamburg 2014"
 email: "gdghhandroid@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/devfest"
-url: "http://gdghamburg.github.io/devfest"
+baseurl: "/DevFest14"
+url: "http://gdghamburg.github.io/DevFest14"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-55639785-1"
-googleAnalyticsSiteUrl: "gdghamburg.github.io"
+googleAnalyticsSiteUrl: "gdghamburg.github.io/DevFest14"
 
 # Organizer Info
 organizerName: "The GDGs of Hamburg"
